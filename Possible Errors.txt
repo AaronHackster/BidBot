@@ -1,0 +1,3 @@
+Changd all html pages to php
+Not setting limit for password in registeration
+but having limit in database
